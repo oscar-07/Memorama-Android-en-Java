@@ -5,4 +5,4 @@ Lenguaje: Java
 
 En el presente proyecto, se realizo un juego por medio del lenguaje java denominado memorama, con tematica del videojuego Resident Evil
 
-![Memorama](a1.PNG)
+![Memorama](a1.jpg)
