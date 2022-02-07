@@ -1,8 +1,8 @@
-# Memorama-en-Kotlin
-## Juego de memoria en Kotlin
+# Memorama en Android con Java
+## Juego de memoria en Java
 
-Lenguaje: Kotlin
+Lenguaje: Java
 
-En el presente proyecto, se realizo un juego por medio del lenguaje Kotlin denominado memorama, con tematica del videojuego Resident Evil
+En el presente proyecto, se realizo un juego por medio del lenguaje java denominado memorama, con tematica del videojuego Resident Evil
 
 ![Memorama](a1.PNG)
